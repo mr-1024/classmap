@@ -1,0 +1,16 @@
+{
+  "name": "wind/classmap",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mr.wind",
+      "email": "zouxiuhui@vchangyi.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
